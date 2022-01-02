@@ -12,5 +12,7 @@ int main()
     cin>> b;
     cout<< "Summa = "<< a+b << endl;
     cout<< "Raznost' = " << a-b << endl;
-    //cout<< "Multip = " << a*b << endl;
+    cout<< "Multip = " << a*b << endl;
+    cout<< "DIV = " << a/b << endl;
+
 }
